@@ -1,0 +1,19 @@
+{
+  "name": "simple-recipe-app",
+  "version": "1.0.0",
+  "description": "A simple recipe app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaASmith/simple-recipe-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaASmith/simple-recipe-app/issues"
+  },
+  "homepage": "https://github.com/JoshuaASmith/simple-recipe-app#readme"
+}
